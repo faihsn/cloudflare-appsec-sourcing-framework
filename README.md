@@ -106,7 +106,7 @@ location:Singapore followers:>3 type:user (dns OR waf OR proxy OR networking OR 
 By cross-referencing candidate profile signals with Cloudflare's core edge infrastructure mission, personalized outreach was generated at scale:
 
 ```text
-Subject: Your packet/proxy analysis projects + Application Security at Cloudflare Singapore
+Subject: Invitation - Technical Support Engineering (AppSec) | Cloudflare APAC
 
 Hi [Candidate Name],
 
@@ -114,7 +114,7 @@ I came across your GitHub activity around proxy gateway and CDN infrastructureâ€
 
 At Cloudflare, our Application Security Support Engineers in Singapore don't just process ticketsâ€”they sit at the edge of the Internet, tuning WAF rules, analyzing real-time DDoS traffic, and resolving complex Layer 3/4/7 issues across APAC.
 
-Given your background in networking and edge proxy tools, I thought your profile stood out for our team. Open to a quick 15-minute chat this week?
+Given your background in networking and edge proxy tools, I thought your profile stood out for our team. Are you open to a quick 15-minute chat this week?
 
 Best regards,
 Faiza Ummul Hussaini
